@@ -2,8 +2,9 @@
 Dicionario em GoLang RestFul
 
 ### Lista de atividades
-- [ ] RestFul apenas com array sem a conexao com banco
+- [x] RestFul apenas com array sem a conexao com banco
+- [x] Conectar ao Banco
 - [ ] Criar banco de dados e anexar ao docker init
-- [ ] Criar todas rotas no INSOMNIA
+- [x] Criar todas rotas no INSOMNIA
 - [ ] Iniciar Front-End 
 [...]
