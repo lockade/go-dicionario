@@ -1,4 +1,4 @@
-module Gone
+module Dicionario
 
 go 1.16
 
